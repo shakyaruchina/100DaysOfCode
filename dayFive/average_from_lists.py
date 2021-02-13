@@ -8,6 +8,7 @@ for n in range(0, len(student_heights)):
 
 total_heights = 0
 for height in student_heights:
+    #sum function can be used 
     total_heights += height
 #print(total_heights)
 
