@@ -7,5 +7,7 @@
 *Day 5: For Loops.*\
 *Day 6: Python Functions.*\
 *Day 7: Hangman Game.*\
-*Day 8: Function Parameters.*
+*Day 8: Function Parameters.*\
+*Day 9: Dictionary and Nestings.*\
+*Day 10: Function with outputs(return).*
 
